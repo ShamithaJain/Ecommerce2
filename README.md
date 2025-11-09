@@ -83,3 +83,37 @@ The frontend proxies `/api` to the backend.
     main.jsx
     /styles/index.css
 ```
+<<<<<<< HEAD
+=======
+
+---
+
+## What to record in your 1–2 min demo video
+
+- Launch backend & frontend
+- Show adding/removing items, qty updates, total updating
+- Show checkout → receipt alert
+- Briefly show code folder layout and API endpoints
+
+---
+
+## Notes
+
+- No real payments.
+- Can be deployed later (Render/Netlify/etc.), but the task only requires GitHub.
+- Tested locally with Node 20.
+
+## Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/HomePage.png)
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 🛒 Add to Cart Page
+![Add to Cart Page](screenshots/cartadd.png)
+
+### 💳 Checkout Page
+![Checkout Page](screenshots/checkout.png)
+>>>>>>> 23de2ea (Added screenshots for Add to Cart and Checkout pages)
