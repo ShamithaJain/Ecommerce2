@@ -82,9 +82,14 @@ The frontend proxies `/api` to the backend.
     App.jsx
     main.jsx
     /styles/index.css
+<<<<<<< HEAD
 ```
 =======
 
+=======
+
+=======
+>>>>>>> 3ffdf26 (Updated README with screenshots and latest info)
 ## Notes
 
 - No real payments.
@@ -97,11 +102,11 @@ The frontend proxies `/api` to the backend.
 ![Home Page](screenshots/HomePage.png)
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/Login.png)
 
 ### 🛒 Add to Cart Page
-![Add to Cart Page](screenshots/cartadd.png)
+![Add to Cart Page](screenshots/CartAdd.png)
 
 ### 💳 Checkout Page
-![Checkout Page](screenshots/checkout.png)
->>>>>>> 23de2ea (Added screenshots for Add to Cart and Checkout pages)
+![Checkout Page](screenshots/CheckOut.png)
+
